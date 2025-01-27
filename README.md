@@ -1,9 +1,5 @@
 # Web App for Language Model Communication using React, Django, and WebSockets
 
-
-## DEMO
-https://www.youtube.com/watch?v=1Zlipw28ll4
-
 ## Description
 
 This project showcases a web application built using React and Django that communicates with a deployed Language Model (LLM) through WebSockets. The web app provides a user interface for users to interact with the LLM in real-time, sending input data and receiving model-generated responses through the power of WebSockets.
@@ -21,7 +17,6 @@ The primary objective of this project is to demonstrate how to integrate a dynam
 
 - Frontend: React 
 - Backend: Django , Django Rest Framework
-
 
 ## Setup and Usage
 
@@ -47,7 +42,4 @@ python manage.py runserver
 Access the web app in your browser at http://localhost:8000.
 
 Interact with the Language Model through the web app and observe real-time responses.
-
-Contributing
-Contributions are welcome! If you'd like to contribute to the project, please follow the same steps mentioned in the previous README template.
 
